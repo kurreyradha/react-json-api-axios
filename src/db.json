@@ -1,0 +1,27 @@
+{
+
+    "students":[
+        {
+            "rollno":1,
+            "city":"bhopal",
+            "fees":123,
+            "name":"radha"
+        },
+
+        {
+            "rollno":2,
+            "city":"indore",
+            "fees":1234,
+            "name":"rupa"
+        },
+
+        {
+            "rollno":3,
+            "city":"satna",
+            "fees":123567,
+            "name":"suraj"
+        }
+
+       
+    ]
+}
